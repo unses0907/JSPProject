@@ -19,7 +19,6 @@ public class HelloSevlet extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
-	
     public HelloSevlet() {
         super();
         // TODO Auto-generated constructor stub
